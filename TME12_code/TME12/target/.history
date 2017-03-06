@@ -1,0 +1,8 @@
+set fork in run := true
+run
+compile
+run
+compile
+run
+set fork in run := true
+compile

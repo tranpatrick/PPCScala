@@ -1,0 +1,318 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+38 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$concat_par_tones$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$copy$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$copy$2.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$duration$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$duration$2.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$duration$3.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$duration$4.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$mirror$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$mirror$2.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$note_count$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$note_count$2.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$note_count$3.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$note_count$4.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$play_midi$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$play_midi$2.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$receive$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$retrograde$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$stretch$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$stretch$2.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$transpose$1.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$transpose$2.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/ComposeObjectMusical.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/MidiNote$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/MidiNote.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Note$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Note.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/ObjectMusical.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Parallel$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Parallel.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Rest$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Rest.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Sequential$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Sequential.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/SimpleObjectMusical.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/bach$.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/bach$delayedInit$body.class
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/bach.class
+binary dependencies:
+3 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> /Users/agonc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+38 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$concat_par_tones$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$copy$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$copy$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$duration$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$duration$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$duration$3
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$duration$4
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$mirror$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$mirror$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$note_count$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$note_count$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$note_count$3
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$note_count$4
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$play_midi$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$play_midi$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$receive$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$retrograde$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$stretch$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$stretch$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$transpose$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.BachActor$$anonfun$transpose$2
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.ComposeObjectMusical
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.MidiNote
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.MidiNote$
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.Note
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.Note$
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.ObjectMusical
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.Parallel
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.Parallel$
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.Rest
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.Rest$
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.Sequential
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.Sequential$
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.SimpleObjectMusical
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.bach
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.bach$
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc.akka.culto.bach$delayedInit$body
+used names:
+127 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> !
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> &&
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> *
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> +
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> -
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ::
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> <init>
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ==
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> A1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> AbstractFunction1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> AbstractFunction3
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> AbstractFunction4
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Actor
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ActorRef
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ActorSelection
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ActorSystem
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> AnyRef
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> App
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> B1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> BachActor
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ClassTag
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ComposeObjectMusical
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Double
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ExecutionContext
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Function1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Implicits
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Int
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> List
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> MidiNote
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Nil
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> None
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Note
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ObjectMusical
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Parallel
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Predef
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Product
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Props
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Rest
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ScalaRunTime
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Sequential
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Serializable
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> SimpleObjectMusical
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Statics
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> Unit
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> _hashCode
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> _toString
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> actor
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> actorOf
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> actorRef2Scala
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> actorSelection
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> akka
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> apply
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> asInstanceOf
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> at
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> bach
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> c
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> canBuildFrom
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> canon_Bach
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> concat
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> concat_par_tones
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> concurrent
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> context
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> copy
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> culto
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> d
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> date
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> dur
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> duration
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> elements
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> eq
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> fact
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> finalizeHash
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> foldLeft
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> foreach
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> global
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> i
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> immutable
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> intWrapper
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> isInstanceOf
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> l
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> length
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> localActor
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> map
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> materializeClassTag
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> math
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> max
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> mirror
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> mix
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> mk_list
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> n
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> new_voix
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> note_count
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> obj
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> obj1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> obj2
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> p
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> package
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> pitch
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> play
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> play_midi
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> qual$1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> remote
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> rep
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> retrograde
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> reverse
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> runtime
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> scala
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> self
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> send_a_note
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> stretch
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> system
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> to
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> toInt
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> toScala
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> toString
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> tone
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> transpose
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> typedProductIterator
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> unchecked
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> upmc
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> v
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> vel
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> voix1
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> voix2
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> x$21
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> x$22
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> ||
+product stamps:
+38 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$concat_par_tones$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$copy$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$copy$2.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$duration$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$duration$2.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$duration$3.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$duration$4.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$mirror$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$mirror$2.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$note_count$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$note_count$2.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$note_count$3.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$note_count$4.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$play_midi$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$play_midi$2.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$receive$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$retrograde$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$stretch$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$stretch$2.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$transpose$1.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor$$anonfun$transpose$2.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/BachActor.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/ComposeObjectMusical.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/MidiNote$.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/MidiNote.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Note$.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Note.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/ObjectMusical.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Parallel$.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Parallel.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Rest$.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Rest.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Sequential$.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/Sequential.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/SimpleObjectMusical.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/bach$.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/bach$delayedInit$body.class -> lastModified(1483376797000)
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/target/scala-2.11/classes/upmc/akka/culto/bach.class -> lastModified(1483376797000)
+source stamps:
+1 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> hash(e441416af3d66fd67766c802a5aff91c2e4f3afd)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1426248356000)
+/Users/agonc/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> lastModified(1443615484000)
+/Users/agonc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617866000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/agonc/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.0.jar -> akka.actor.Actor
+/Users/agonc/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+internal apis:
+1 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAeamqIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwje45inQABHNlbGZzcQB+AAv9MpardAAHY29udGV4dHVxAH4ACQAAAFNzcQB+AAs1bhz9dAAIZWxlbWVudHNzcQB+AAuBCwWVdAAGbm90aWZ5c3EAfgAL+dtXgHQACGR1cmF0aW9uc3EAfgALYOckz3QAB1JlY2VpdmVzcQB+AAvzvovtdAAEd2FpdHNxAH4AC64l5/90AA5jb3B5JGRlZmF1bHQkMnNxAH4AC6bgin90AA0kYXNJbnN0YW5jZU9mc3EAfgAL8ji+BXQABnN5c3RlbXNxAH4AC08oszJ0ABNTaW1wbGVPYmplY3RNdXNpY2Fsc3EAfgALWgUD13QABXZvaXgyc3EAfgALrnn38XQADHByb2R1Y3RBcml0eXNxAH4ACw1Td9h0AAZlcXVhbHNzcQB+AAsrk7O5dAAFY2Fub25zcQB+AAtL2iZLdAAKcmV0cm9ncmFkZXNxAH4ACz1L3DR0AAROb3Rlc3EAfgALbzMsUHQAA3ZlbHNxAH4ACz062z50AARwbGF5c3EAfgALA64TY3QAFENvbXBvc2VPYmplY3RNdXNpY2Fsc3EAfgAL2EJe4HQADGFzSW5zdGFuY2VPZnNxAH4AC3Z4SMJ0AA5leGVjdXRpb25TdGFydHNxAH4ACxR1nmp0AAdta19saXN0c3EAfgALsll0qnQAEGNvbmNhdF9wYXJfdG9uZXNzcQB+AAvKTMkkdAAMc3luY2hyb25pemVkc3EAfgALFtw0rXQABmNvbmNhdHNxAH4AC8YIPkR0AAdzdHJldGNoc3EAfgAL3+MlaHQADSRpc0luc3RhbmNlT2ZzcQB+AAtDN+WLdAAFdm9peDFzcQB+AAu4Miw0dAAHcmVjZWl2ZXNxAH4ACxv3jih0AApwcmVSZXN0YXJ0c3EAfgALnMtr8nQABFJlc3RzcQB+AAuvuaa7dAADZHVyc3EAfgALNDII9HQAC3NlbmRfYV9ub3Rlc3EAfgALxvrvd3QADWFyb3VuZFJlY2VpdmVzcQB+AAtnpLk8dAAIY2FuRXF1YWxzcQB+AAtaJRx4dAALcG9zdFJlc3RhcnRzcQB+AAt3zB0wdAAOY29weSRkZWZhdWx0JDRzcQB+AAs6VNS5dAAEbWFpbnNxAH4AC8B1IA90AAhwb3N0U3RvcHNxAH4AC0Q7yjV0AA1wcm9kdWN0UHJlZml4c3EAfgALwT9mjnQACW5vdGlmeUFsbHNxAH4AC7QdIpV0AApjYW5vbl9CYWNoc3EAfgALPbE9f3QACFBhcmFsbGVsc3EAfgALUJvjYnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALUbJbiHQADGlzSW5zdGFuY2VPZnNxAH4AC+IIZLh0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALd0yaOnQADmFyb3VuZFBvc3RTdG9wc3EAfgALXzm1oHQABjxpbml0PnNxAH4AC5AKs/90AAJhdHNxAH4ACyA9pzh0AA1PYmplY3RNdXNpY2Fsc3EAfgALbko0J3QABnJlbW90ZXNxAH4AC7U8jRV0AApub3RlX2NvdW50c3EAfgALBSibj3QACHByZVN0YXJ0c3EAfgALb0ajLnQACXVuaGFuZGxlZHNxAH4AC706G550AApTZXF1ZW50aWFsc3EAfgALetsTHnQAAj09c3EAfgALzOv9D3QACE1pZGlOb3Rlc3EAfgAL7SJRS3QABWNsb25lc3EAfgALcPge8HQABXBpdGNoc3EAfgALgk3Y8HQADmNvcHkkZGVmYXVsdCQzc3EAfgALMld6NnQABGNvcHlzcQB+AAtttuhGdAAGc2VuZGVyc3EAfgALeF0qX3QACHRvU3RyaW5nc3EAfgALuSaGnXQABGFyZ3NzcQB+AAvbf2A9dAACIT1zcQB+AAtAgVOndAAJdHJhbnNwb3Nlc3EAfgALgx1FiXQACGdldENsYXNzc3EAfgAL7c1wHHQABnJlcGVhdHNxAH4ACz/xvzZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC0qdecR0AAZtaXJyb3JzcQB+AAuJkQGddAACbmVzcQB+AAvnc0fvdAAKbG9jYWxBY3RvcnNxAH4ACxoUODZ0AAlCYWNoQWN0b3JzcQB+AAssAmxtdAAJcGxheV9taWRpc3EAfgALUbiWAXQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC1rsBfp0AAJlcXNxAH4AC3kpifZ0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAvdVTK8dAALZGVsYXllZEluaXRzcQB+AAsDiyTJdAACIyNzcQB+AAsV/nA3dAAIZmluYWxpemVzcQB+AAsls7cNdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAuGptTrdAAIaGFzaENvZGVzcQB+AAt9JPhgdAAOYXJvdW5kUHJlU3RhcnRzcQB+AAurPsBcdAAEYmFjaHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAApzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AMF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAF0AB11cG1jLmFra2EuY3VsdG8uT2JqZWN0TXVzaWNhbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4A2nhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4A2QBwc3EAfgDec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/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
+external apis:
+0 items
+source infos:
+1 items
+/Users/agonc/CURSOS_UPMC/2016/PPC/semaine 8/TME8_Pattern/TME-8/src/main/scala/bach.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUWxzdGh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9hZ29uYy9DVVJTT1NfVVBNQy8yMDE1L1BQQy9jdWx0bzIwMTUvVE1FLTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUuD2EuF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9hZ29uYy9DVVJTT1NfVVBNQy8yMDE1L1BQQy9zZW1haW5lIDgvVE1FOF9TT0xVQ0UvVE1FLTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWWAlivV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9Vc2Vycy9hZ29uYy9DVVJTT1NfVVBNQy8yMDE2L1BQQy9zZW1haW5lIDgvVE1FOF9QYXR0ZXJuL1RNRS04L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0mRunning upmc.akka.culto.player [0m
+[0m[[0minfo[0m] [0m[INFO] [01/03/2017 10:51:26.802] [main] [akka.remote.Remoting] Starting remoting[0m
+[0m[[0minfo[0m] [0m[INFO] [01/03/2017 10:51:27.002] [main] [akka.remote.Remoting] Remoting started; listening on addresses :[akka.tcp://Player@127.0.0.1:6000][0m
+[0m[[0minfo[0m] [0m[INFO] [01/03/2017 10:51:27.003] [main] [akka.remote.Remoting] Remoting now listens on addresses: [akka.tcp://Player@127.0.0.1:6000][0m
+[0m[[31merror[0m] [0mCannot connect to server socket err = No such file or directory[0m
+[0m[[31merror[0m] [0mCannot connect to server request channel[0m
+[0m[[31merror[0m] [0mjack server is not running or cannot be started[0m
+[0m[[0minfo[0m] [0mcontrol c pour quitter [0m

@@ -1,0 +1,50 @@
+compile
+run
+set run in test := true
+set fork in test := true
+run
+set fork in Test := true
+run
+set fork in Test := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+exit
+set fork in run := true
+compile
+run
+set fork in run := true
+compile
+set fork in run := trueexit
+exit
+set fork in run := true
+compile
+run
+set fork in run := true
+run
+set fork in run := true
+run
+fork in run := true
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+set fork in run := true
+run
+compile
+set fork in run := true
+run
