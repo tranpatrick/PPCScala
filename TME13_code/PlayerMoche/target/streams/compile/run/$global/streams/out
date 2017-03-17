@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mRunning upmc.akka.culto.player [0m
+[0m[[0minfo[0m] [0m[INFO] [01/09/2017 13:31:49.284] [main] [akka.remote.Remoting] Starting remoting[0m
+[0m[[0minfo[0m] [0m[INFO] [01/09/2017 13:31:49.422] [main] [akka.remote.Remoting] Remoting started; listening on addresses :[akka.tcp://Player@127.0.0.1:6000][0m
+[0m[[0minfo[0m] [0m[INFO] [01/09/2017 13:31:49.423] [main] [akka.remote.Remoting] Remoting now listens on addresses: [akka.tcp://Player@127.0.0.1:6000][0m
+[0m[[31merror[0m] [0mCannot connect to server socket err = No such file or directory[0m
+[0m[[31merror[0m] [0mCannot connect to server request channel[0m
+[0m[[31merror[0m] [0mjack server is not running or cannot be started[0m
+[0m[[0minfo[0m] [0mcontrol c pour quitter [0m
+[0m[[0minfo[0m] [0m[WARN] [01/09/2017 13:51:44.923] [Player-akka.remote.default-remote-dispatcher-5] [akka.tcp://Player@127.0.0.1:6000/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FVoicerSystem%40127.0.0.1%3A5010-0] Association with remote system [akka.tcp://VoicerSystem@127.0.0.1:5010] has failed, address is now gated for [5000] ms. Reason: [Disassociated] [0m
+[0m[[0minfo[0m] [0m[INFO] [01/09/2017 17:56:43.247] [Player-akka.remote.default-remote-dispatcher-5] [akka.tcp://Player@127.0.0.1:6000/system/transports/akkaprotocolmanager.tcp0/akkaProtocol-tcp%3A%2F%2FPlayer%40127.0.0.1%3A58012-2] No response from remote. Handshake timed out or transport failure detector triggered. (internal state was Open)[0m
+[0m[[0minfo[0m] [0m[WARN] [01/09/2017 17:56:43.291] [Player-akka.remote.default-remote-dispatcher-20] [akka.tcp://Player@127.0.0.1:6000/system/endpointManager/reliableEndpointWriter-akka.tcp%3A%2F%2FVoicerSystem%40127.0.0.1%3A5010-1] Association with remote system [akka.tcp://VoicerSystem@127.0.0.1:5010] has failed, address is now gated for [5000] ms. Reason: [Disassociated] [0m

@@ -4,7 +4,7 @@
 		module="bach$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170306112449"
+		publication="20170314121915"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

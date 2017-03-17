@@ -1,4 +1,4 @@
-[info] Updating {file:/C:/Users/Patrick/IdeaProjects/TME12_code/TME12/project/}tme12-build...
+[info] Updating {file:/C:/Users/Patrick/IdeaProjects/PPCScala/TME12_code/TME12/project/}tme12-build...
 [debug] :: resolving dependencies :: default#tme12-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -6705,19 +6705,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#template-resolver;0.1!template-resolver.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.6!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1655ms :: artifacts dl 53ms
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT compile produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-compile.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT runtime produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-runtime.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT test produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-test.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT provided produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-provided.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT optional produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-optional.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT compile-internal produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-compile-internal.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-runtime-internal.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT test-internal produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-test-internal.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT plugin produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-plugin.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT sources produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-sources.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT docs produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-docs.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT pom produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-pom.xml
-[debug] 	report for default#tme12-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Patrick\IdeaProjects\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-scala-tool.xml
-[debug] 	resolve done (1655ms resolve - 53ms download)
+[debug] :: resolution report :: resolve 17225ms :: artifacts dl 813ms
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT compile produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-compile.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT runtime produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-runtime.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT test produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-test.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT provided produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-provided.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT optional produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-optional.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT compile-internal produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-compile-internal.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT runtime-internal produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-runtime-internal.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT test-internal produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-test-internal.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT plugin produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-plugin.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT sources produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-sources.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT docs produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-docs.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT pom produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-pom.xml
+[debug] 	report for default#tme12-build;0.1-SNAPSHOT scala-tool produced in C:\Users\Patrick\IdeaProjects\PPCScala\TME12_code\TME12\project\target\resolution-cache\reports\default-tme12-build-scala-tool.xml
+[debug] 	resolve done (17225ms resolve - 813ms download)
 [info] Done updating.

@@ -39,7 +39,8 @@ class BachActor extends Actor {
 //      play(retrograde(exemple));
 //      play(mirror(exemple, 60));
 //      play(repeat(exemple, 3))
-
+//      play(exemple2);
+        play(canon_Bach(1));
     }
   }
 
@@ -147,18 +148,28 @@ class BachActor extends Actor {
       }
 
   // make obj en parallele avec lui meme avec un decalage de n ms.
-//    def canon (obj:ObjectMusical, n:Int):ObjectMusical =
-//      obj match{
-//        case Sequential (l) => Parallel (List(l, l.map())
-//      }
+    def canon (obj:ObjectMusical, n:Int):ObjectMusical =
+      obj match{
+        //On peut faire (Sequential(List(Rest(n), Note(pitch, dur, vel))
+        case Note(pitch, dur, vel) => Parallel(List(Note(pitch, dur, vel), Sequential(Rest(n)::List(Note(pitch,dur,vel)))))
+        case Sequential(l) => Parallel(List(Sequential(l), Sequential(Rest(n)::l)))
+        case Parallel(p) => Parallel(List(Parallel(p), Sequential(Rest(n)::List(Parallel(p)))))
+      }
 
 
 
   //  Met obj1 et obj2 en seqeunce
-  //  def concat (obj1:ObjectMusical, obj2:ObjectMusical):ObjectMusical =
-  //code here
+    def concat (obj1:ObjectMusical, obj2:ObjectMusical):ObjectMusical =
+      Sequential(List(obj1, obj2))
 
-  //val exemple2 = ???
+  val exemple2_aux = repeat(Parallel(List(
+    Sequential(List(Note(60, 1000, 127), Note(64, 500, 127), Note(62, 500, 127), Rest(1000), Note(67, 1000, 127))),
+    Sequential(List(Note(76, 2000, 127), Note(79, 1000, 127), Note(79, 1000, 127)))
+  )), 3)
+  val exemple2 = Parallel(List(
+    exemple2_aux, canon(exemple2_aux, 4000)
+  ))
+
 
   //Question 5 BACH
   val voix1 = Sequential ( List (
@@ -200,9 +211,12 @@ class BachActor extends Actor {
     Note (58 , 125 , 100 ),Note (57 , 125 , 100 ),Note (55 , 125 , 100 )))
 
 
-  //def canon_Bach ():ObjectMusical = {
-  //    // ????
-  //  }
+  def canon_Bach ():ObjectMusical = {
+    Parallel(List(
+
+    ))
+//transpose(repeat(voix1, 6), 2), transpose(repeat(voix2, 1), 6), canon(transpose(repeat(voix2, 6), 5), 2000)
+  }
   //
 }
 //////////////////////////////////////////////////

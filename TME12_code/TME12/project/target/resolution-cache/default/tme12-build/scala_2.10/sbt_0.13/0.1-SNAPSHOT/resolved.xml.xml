@@ -4,7 +4,7 @@
 		module="tme12-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170306112346"
+		publication="20170309101104"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
